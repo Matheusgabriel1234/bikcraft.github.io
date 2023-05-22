@@ -1,0 +1,14 @@
+@import "./css/global.css";
+@import "./css/header.css";
+@import "./css/introducao.css";
+@import "./css/utilidades.css";
+@import "./css/cores.css";
+@import "./css/tipografia.css";
+@import "./bicicletas/bicicletas-listas.css";
+@import "./css/tecnologia.css";
+@import "./css/parceiros.css";
+@import "./css/depoimento.css";
+@import "./css/seguros.css";
+@import "./css/footer.css";
+@import "./css/termos.css";
+@import "./bicicletas/bicicletas.css"
